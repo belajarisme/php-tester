@@ -1,1 +1,1 @@
-Hello word. This is index
+Hello word. Ini halaman index
